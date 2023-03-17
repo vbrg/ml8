@@ -1,0 +1,21 @@
+automl-platform/
+├── ml8/
+│   ├── __init__.py
+│   ├── data_preprocessing.py
+│   ├── model_selection.py
+│   ├── hyperparameter_tuning.py
+│   ├── model_evaluation.py
+├── examples/
+│   ├── example_classification.ipynb
+│   ├── example_regression.ipynb
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_preprocessing.py
+│   ├── test_model_selection.py
+│   ├── test_hyperparameter_tuning.py
+│   ├── test_model_evaluation.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── setup.py
